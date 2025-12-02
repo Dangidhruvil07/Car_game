@@ -95,3 +95,11 @@ Assets/GameDev.tv - Delivery Dash Assets.meta
 Assets/Prefebs/
 Assets/Prefebs.meta
 Assets/Prefebs/**
+# IGNORE FULL COPYRIGHTED GAMEDEV.TV PACK
+Assets/GameDev.tv - Delivery Dash Assets/
+Assets/GameDev.tv - Delivery Dash Assets.meta
+
+# IGNORE prefab folder and all prefab files from asset packs
+Assets/Prefebs/
+Assets/Prefebs.meta
+Assets/Prefebs/**
