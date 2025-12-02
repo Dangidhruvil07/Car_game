@@ -83,3 +83,11 @@ Assets/Prefebs/
 # Allow your code
 !Assets/**/Scripts/
 !Assets/**/Scenes/
+# Ignore all prefabs
+Assets/**/Prefabs/
+Assets/**/Prefabs.meta
+Assets/**/Prefebs/
+Assets/**/Prefebs.meta
+# IGNORE FULL COPYRIGHTED GAMEDEV.TV PACK
+Assets/GameDev.tv - Delivery Dash Assets/
+Assets/GameDev.tv - Delivery Dash Assets.meta
