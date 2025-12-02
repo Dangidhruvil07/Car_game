@@ -1,0 +1,60 @@
+# ------------------------------
+# Unity default ignore
+# ------------------------------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+MemoryCaptures/
+
+# ------------------------------
+# Crash logs
+# ------------------------------
+*.stackdump
+
+# ------------------------------
+# Visual Studio / Rider / IDE
+# ------------------------------
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.pidb
+*.pdb
+*.user
+*.unitypackage
+*.tmp
+
+# ------------------------------
+# Auto-generated
+# ------------------------------
+*.mdb
+*.svd
+
+# ------------------------------
+# IGNORE COPYRIGHTED GAMEDEV.TV PACK
+# (Exact folder name from your project)
+Assets/GameDev.tv - Delivery Dash Assets/
+
+# ------------------------------
+# IGNORE Prefabs + Art + Audio from asset packs
+# ------------------------------
+Assets/**/Prefabs/
+Assets/**/Materials/
+Assets/**/Textures/
+Assets/**/Models/
+Assets/**/Sprites/
+Assets/**/VFX/
+Assets/**/Audio/
+Assets/**/Art/
+
+# ------------------------------
+# Allow your own game code
+# ------------------------------
+!Assets/**/Scripts/
+!Assets/**/Scenes/
+
