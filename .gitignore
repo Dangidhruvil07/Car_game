@@ -91,3 +91,7 @@ Assets/**/Prefebs.meta
 # IGNORE FULL COPYRIGHTED GAMEDEV.TV PACK
 Assets/GameDev.tv - Delivery Dash Assets/
 Assets/GameDev.tv - Delivery Dash Assets.meta
+# Ignore Prefebs asset pack prefabs (exact folder name)
+Assets/Prefebs/
+Assets/Prefebs.meta
+Assets/Prefebs/**
