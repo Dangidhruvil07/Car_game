@@ -58,3 +58,28 @@ Assets/**/Art/
 !Assets/**/Scripts/
 !Assets/**/Scenes/
 
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# IDE ignores
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.pdb
+*.unitypackage
+
+# IGNORE copyrighted pack
+Assets/GameDev.tv - Delivery Dash Assets/
+
+# IGNORE prefab folder (asset pack prefabs)
+Assets/Prefebs/
+
+# Allow your code
+!Assets/**/Scripts/
+!Assets/**/Scenes/
