@@ -103,3 +103,8 @@ Assets/GameDev.tv - Delivery Dash Assets.meta
 Assets/Prefebs/
 Assets/Prefebs.meta
 Assets/Prefebs/**
+
+GameDev.tv - Delivery Dash Assets.meta
+Assets/Prefebs/
+Assets/Prefebs/*.prefab
+Assets/Prefebs/*.prefab.meta
