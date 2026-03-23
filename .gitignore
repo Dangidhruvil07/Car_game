@@ -1,110 +1,40 @@
 # ------------------------------
-# Unity default ignore
+# Unity auto-generated folders
 # ------------------------------
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Mm]emoryCaptures/
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
 UserSettings/
-MemoryCaptures/
 
 # ------------------------------
-# Crash logs
+# IDE files
 # ------------------------------
-*.stackdump
-
-# ------------------------------
-# Visual Studio / Rider / IDE
-# ------------------------------
-.vscode/
 .vs/
+.vscode/
 *.csproj
 *.sln
-*.pidb
-*.pdb
 *.user
+*.pdb
 *.unitypackage
-*.tmp
 
 # ------------------------------
-# Auto-generated
+# Ignore copyrighted assets
 # ------------------------------
-*.mdb
-*.svd
-
-# ------------------------------
-# IGNORE COPYRIGHTED GAMEDEV.TV PACK
-# (Exact folder name from your project)
 Assets/GameDev.tv - Delivery Dash Assets/
 
-# ------------------------------
-# IGNORE Prefabs + Art + Audio from asset packs
-# ------------------------------
-Assets/**/Prefabs/
-Assets/**/Materials/
+# Ignore heavy asset types
 Assets/**/Textures/
 Assets/**/Models/
+Assets/**/Audio/
+Assets/**/Materials/
 Assets/**/Sprites/
 Assets/**/VFX/
-Assets/**/Audio/
-Assets/**/Art/
 
 # ------------------------------
-# Allow your own game code
+# Allow important game files
 # ------------------------------
 !Assets/**/Scripts/
 !Assets/**/Scenes/
-
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-UserSettings/
-
-# IDE ignores
-.vscode/
-.vs/
-*.csproj
-*.sln
-*.pdb
-*.unitypackage
-
-# IGNORE copyrighted pack
-Assets/GameDev.tv - Delivery Dash Assets/
-
-# IGNORE prefab folder (asset pack prefabs)
-Assets/Prefebs/
-
-# Allow your code
-!Assets/**/Scripts/
-!Assets/**/Scenes/
-# Ignore all prefabs
-Assets/**/Prefabs/
-Assets/**/Prefabs.meta
-Assets/**/Prefebs/
-Assets/**/Prefebs.meta
-# IGNORE FULL COPYRIGHTED GAMEDEV.TV PACK
-Assets/GameDev.tv - Delivery Dash Assets/
-Assets/GameDev.tv - Delivery Dash Assets.meta
-# Ignore Prefebs asset pack prefabs (exact folder name)
-Assets/Prefebs/
-Assets/Prefebs.meta
-Assets/Prefebs/**
-# IGNORE FULL COPYRIGHTED GAMEDEV.TV PACK
-Assets/GameDev.tv - Delivery Dash Assets/
-Assets/GameDev.tv - Delivery Dash Assets.meta
-
-# IGNORE prefab folder and all prefab files from asset packs
-Assets/Prefebs/
-Assets/Prefebs.meta
-Assets/Prefebs/**
-
-GameDev.tv - Delivery Dash Assets.meta
-Assets/Prefebs/
-Assets/Prefebs/*.prefab
-Assets/Prefebs/*.prefab.meta
