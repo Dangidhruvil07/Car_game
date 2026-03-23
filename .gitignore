@@ -1,40 +1,34 @@
-# ------------------------------
-# Unity auto-generated folders
-# ------------------------------
+# Unity folders
 Library/
 Temp/
-Obj/
-Build/
-Builds/
 Logs/
 UserSettings/
 
-# ------------------------------
-# IDE files
-# ------------------------------
+# IDE
 .vs/
 .vscode/
 *.csproj
 *.sln
 *.user
 *.pdb
-*.unitypackage
 
 # ------------------------------
-# Ignore copyrighted assets
+# REMOVE ALL ASSETS (SAFE WAY)
 # ------------------------------
-Assets/GameDev.tv - Delivery Dash Assets/
-
-# Ignore heavy asset types
+Assets/Prefabs/
+Assets/**/Prefabs/
+Assets/**/Materials/
 Assets/**/Textures/
 Assets/**/Models/
 Assets/**/Audio/
-Assets/**/Materials/
 Assets/**/Sprites/
 Assets/**/VFX/
 
+# Specific copyrighted pack
+Assets/GameDev.tv - Delivery Dash Assets/
+
 # ------------------------------
-# Allow important game files
+# ALLOW ONLY CODE + SCENES
 # ------------------------------
 !Assets/**/Scripts/
 !Assets/**/Scenes/
